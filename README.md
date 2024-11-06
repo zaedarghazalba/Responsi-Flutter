@@ -1,16 +1,10 @@
 # responsei_app
 
-A new Flutter project.
+TUGAS RESPONSI 
+ZAEDAR GHAZALBA 
+5210411192
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+BERIKUT HALAMANNYA 
+![login](https://github.com/user-attachments/assets/fa0ad50d-82ad-43f7-843b-20fa70d80033)
+![akun](https://github.com/user-attachments/assets/e30c7b74-e3c8-4f5e-8184-6d023531e91e)
+![home](https://github.com/user-attachments/assets/aa6b1d97-5ced-467c-b53b-0c5ac7471c96)
